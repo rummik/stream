@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=sh streaming.sh
+GenericName[en_US]=Start tools for streaming
+GenericName=Start tools for streaming
+Icon=vokoscreen
+MimeType=
+Name[en_US]=Stream
+Name=Stream
+Path=~/Source/rummik/stream/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
